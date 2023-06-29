@@ -6,4 +6,6 @@
 
 3. Файл с тестом (LinearRegressionTest) находится в директории src/test/scala/org/apache/spark/ml/regression
 
-4. Логи обучения - trainigLogs.pdf 
+4. Логи обучения - trainigLogs.pdf
+
+5. Снимок экрана 2023-06-29 в 13.01.01.png - скрин, что задание было залито вовремя
